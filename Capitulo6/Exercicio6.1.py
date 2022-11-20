@@ -1,6 +1,3 @@
-from posixpath import supports_unicode_filenames
-
-
 notas = [0,0,0,0,0,0,0]
 soma = 0
 x = 0
