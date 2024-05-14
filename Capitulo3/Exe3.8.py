@@ -1,3 +1,3 @@
 metro = float(input('Informe quantos metros: '))
-centimetros = metro * 100
-print('%.0f centrimetros'%centimetros)
+milimetros = metro * 1000
+print('%.0f milimetros'%milimetros) #Na edicao 4 do livro mudou de centimentros para milimetros
